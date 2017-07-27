@@ -57,3 +57,5 @@ fastlane/screenshots
 __tests__/index.android.js
 
 __tests__/index.ios.js
+
+examples/PwdInput.js
