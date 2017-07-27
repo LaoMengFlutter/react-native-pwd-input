@@ -8,9 +8,6 @@
   },
   "author": "mengqingdong",
   "license": "ISC",
-  "directories": {
-    "example": "examples"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/781238222/react-native-pwd-input.git"

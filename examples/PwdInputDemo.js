@@ -7,7 +7,7 @@ import {
     StyleSheet,
     View,
 } from 'react-native';
-import PwdInput from './PwdInput'
+import PwdInput from 'react-native-pwd-input'
 
 export default class PwdInputDemo extends Component {
     render() {

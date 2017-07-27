@@ -7,14 +7,10 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
-    "mobx": "^3.2.1",
-    "mobx-react": "^4.2.2",
     "react": "16.0.0-alpha.12",
     "react-native": "0.46.4",
-    "react-native-mobx-toast": "^1.0.0",
-    "react-native-touchable": "^1.0.6",
-    "react-native-xmodal": "^1.1.0",
-    "react-navigation": "^1.0.0-beta.11"
+    "react-native-pwd-input": "^1.0.1",
+    "react-native-touchable": "^1.0.6"
   },
   "devDependencies": {
     "babel-jest": "20.0.3",
