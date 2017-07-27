@@ -1,0 +1,28 @@
+{
+  "name": "react-native-pwd-input",
+  "version": "1.0.1",
+  "description": "可查看密码的密码框",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mengqingdong",
+  "license": "ISC",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/781238222/react-native-pwd-input.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "pwd",
+    "input"
+  ],
+  "bugs": {
+    "url": "https://github.com/781238222/react-native-pwd-input/issues"
+  },
+  "homepage": "https://github.com/781238222/react-native-pwd-input#readme"
+}
