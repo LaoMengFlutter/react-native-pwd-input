@@ -9,7 +9,9 @@
 1、在终端进入到项目目录：npm i react-native-pwd-input --save
 
 2、实例：
-    import PwdInput from './PwdInput'
+
+    import PwdInput from 'react-native-pwd-input'
+    
     <PwdInput
         containerStyle={{marginTop:23}}
         style={{paddingLeft:12,backgroundColor:'white',height:50}}
