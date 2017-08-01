@@ -11,7 +11,7 @@
 2、实例：
 
     import PwdInput from 'react-native-pwd-input'
-    
+
     <PwdInput
         containerStyle={{marginTop:23}}
         style={{paddingLeft:12,backgroundColor:'white',height:50}}
